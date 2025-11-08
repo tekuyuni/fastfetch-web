@@ -7,7 +7,7 @@
       "hostName": "archlinux",
       "homeDir": "/home/m8t/",
       "exePath": "/usr/bin/fastfetch",
-      "userShell": "/usr/bin/fish"
+      "userShell": "/bin/sh"
     }
   },
   {
@@ -102,8 +102,8 @@
       "exe": "/usr/bin/fish",
       "exeName": "fish",
       "exePath": "/usr/bin/fish",
-      "pid": 342658,
-      "ppid": 342596,
+      "pid": 344272,
+      "ppid": 344270,
       "processName": "update_fastfetc",
       "prettyName": "fish",
       "version": "",
@@ -115,7 +115,7 @@
     "result": {
       "processName": "Hyprland",
       "prettyName": "Hyprland",
-      "protocolName": "Wayland",
+      "protocolName": "",
       "pluginName": "",
       "version": ""
     }
