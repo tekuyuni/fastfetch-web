@@ -1,0 +1,127 @@
+[
+  {
+    "type": "Title",
+    "result": {
+      "userName": "m8t",
+      "fullUserName": "",
+      "hostName": "archlinux",
+      "homeDir": "/home/m8t/",
+      "exePath": "/usr/bin/fastfetch",
+      "userShell": "/usr/bin/fish"
+    }
+  },
+  {
+    "type": "Break",
+    "error": "Unsupported for JSON format"
+  },
+  {
+    "type": "OS",
+    "result": {
+      "buildID": "rolling",
+      "codename": "",
+      "id": "arch",
+      "idLike": "",
+      "name": "Arch Linux",
+      "prettyName": "Arch Linux",
+      "variant": "",
+      "variantID": "",
+      "version": "rolling",
+      "versionID": ""
+    }
+  },
+  {
+    "type": "Kernel",
+    "result": {
+      "architecture": "x86_64",
+      "name": "Linux",
+      "release": "6.17.7-arch1-1",
+      "version": "#1 SMP PREEMPT_DYNAMIC Sun, 02 Nov 2025 17:27:22 +0000",
+      "pageSize": 4096
+    }
+  },
+  {
+    "type": "Host",
+    "result": {
+      "family": "ThinkPad T14s Gen 1",
+      "name": "20T00013MX",
+      "version": "ThinkPad T14s Gen 1",
+      "sku": "LENOVO_MT_20T0_BU_Think_FM_ThinkPad T14s Gen 1",
+      "vendor": "LENOVO",
+      "serial": "",
+      "uuid": ""
+    }
+  },
+  {
+    "type": "Packages",
+    "result": {
+      "all": 849,
+      "amSystem": 0,
+      "amUser": 0,
+      "apk": 0,
+      "brew": 0,
+      "brewCask": 0,
+      "choco": 0,
+      "dpkg": 0,
+      "emerge": 0,
+      "eopkg": 0,
+      "flatpakSystem": 0,
+      "flatpakUser": 0,
+      "guixSystem": 0,
+      "guixUser": 0,
+      "guixHome": 0,
+      "hpkgSystem": 0,
+      "hpkgUser": 0,
+      "linglong": 0,
+      "mport": 0,
+      "nixDefault": 0,
+      "nixSystem": 0,
+      "nixUser": 0,
+      "opkg": 0,
+      "pacman": 849,
+      "pacstall": 0,
+      "paludis": 0,
+      "pisi": 0,
+      "pkg": 0,
+      "pkgtool": 0,
+      "pkgsrc": 0,
+      "macports": 0,
+      "rpm": 0,
+      "scoopUser": 0,
+      "scoopGlobal": 0,
+      "snap": 0,
+      "soar": 0,
+      "sorcery": 0,
+      "winget": 0,
+      "xbps": 0,
+      "pacmanBranch": ""
+    }
+  },
+  {
+    "type": "Shell",
+    "result": {
+      "exe": "/bin/bash",
+      "exeName": "bash",
+      "exePath": "/usr/bin/bash",
+      "pid": 275787,
+      "ppid": 275521,
+      "processName": "update_fastfetc",
+      "prettyName": "bash",
+      "version": "",
+      "tty": 1
+    }
+  },
+  {
+    "type": "Terminal",
+    "result": {
+      "processName": "kitty",
+      "exe": "kitty",
+      "exeName": "kitty",
+      "exePath": "/usr/bin/kitty",
+      "pid": 275509,
+      "ppid": 1,
+      "prettyName": "kitty",
+      "version": "",
+      "tty": ""
+    }
+  }
+]
