@@ -102,8 +102,8 @@
       "exe": "/usr/bin/fish",
       "exeName": "fish",
       "exePath": "/usr/bin/fish",
-      "pid": 282884,
-      "ppid": 282754,
+      "pid": 296183,
+      "ppid": 296135,
       "processName": "update_fastfetc",
       "prettyName": "fish",
       "version": "",
@@ -111,17 +111,13 @@
     }
   },
   {
-    "type": "Terminal",
+    "type": "WM",
     "result": {
-      "processName": "kitty",
-      "exe": "kitty",
-      "exeName": "kitty",
-      "exePath": "/usr/bin/kitty",
-      "pid": 282740,
-      "ppid": 1,
-      "prettyName": "kitty",
-      "version": "",
-      "tty": ""
+      "processName": "Hyprland",
+      "prettyName": "Hyprland",
+      "protocolName": "Wayland",
+      "pluginName": "",
+      "version": ""
     }
   }
 ]
