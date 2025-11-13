@@ -34,8 +34,8 @@
     "result": {
       "architecture": "x86_64",
       "name": "Linux",
-      "release": "6.17.7-arch1-1",
-      "version": "#1 SMP PREEMPT_DYNAMIC Sun, 02 Nov 2025 17:27:22 +0000",
+      "release": "6.17.7-arch1-2",
+      "version": "#1 SMP PREEMPT_DYNAMIC Wed, 12 Nov 2025 14:41:18 +0000",
       "pageSize": 4096
     }
   },
@@ -102,8 +102,8 @@
       "exe": "/usr/bin/fish",
       "exeName": "fish",
       "exePath": "/usr/bin/fish",
-      "pid": 192786,
-      "ppid": 192784,
+      "pid": 3612,
+      "ppid": 3610,
       "processName": "update_fastfetc",
       "prettyName": "fish",
       "version": "",
