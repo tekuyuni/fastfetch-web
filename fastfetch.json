@@ -54,7 +54,7 @@
   {
     "type": "Packages",
     "result": {
-      "all": 859,
+      "all": 861,
       "amSystem": 0,
       "amUser": 0,
       "apk": 0,
@@ -77,7 +77,7 @@
       "nixSystem": 0,
       "nixUser": 0,
       "opkg": 0,
-      "pacman": 859,
+      "pacman": 861,
       "pacstall": 0,
       "paludis": 0,
       "pisi": 0,
@@ -102,8 +102,8 @@
       "exe": "/usr/bin/fish",
       "exeName": "fish",
       "exePath": "/usr/bin/fish",
-      "pid": 87528,
-      "ppid": 87526,
+      "pid": 102449,
+      "ppid": 102447,
       "processName": "update_fastfetc",
       "prettyName": "fish",
       "version": "",
